@@ -1,0 +1,9 @@
+{
+  "users": [],
+  "categories": [
+    {"id": 1, "name": "Sistema ERP"},
+    {"id": 2, "name": "Sistema 3D"}
+  ],
+  "checklists": [],
+  "completedChecklists": []
+}

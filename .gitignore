@@ -1,0 +1,18 @@
+# Dependências
+node_modules/
+
+# Arquivos de ambiente
+.env
+
+# Logs e temporários
+*.log
+temp/
+.DS_Store  # Para Mac
+
+# Build
+dist/
+build/
+
+# Outros
+*.tmp
+*.swp
